@@ -254,7 +254,7 @@ npm --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git](https://github.com/sahilkanjariyaa/PlacementOS-Placement-Management-System.git
 ```
 
 Navigate into the project:
